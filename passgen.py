@@ -17,7 +17,7 @@ symbol = "[]{}#()*;._!@$%&"
 ans = lower_case + upper_case + num + symbol
 
 length = 15
-password = "".join(random.choices(ans,length))
+password = "".join(random.choices(ans,k=length))
 print("Generated password is:", password)
 print("Made by Chilia#1236")
 
