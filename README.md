@@ -6,17 +6,16 @@ A quick password generator for your favorite website.
 You will need to run these commands to install depositories
 
 ```bash
-pip install pyfiglet
+cd C:\Users\YOURUSER\Downloads\passgen
+```
+
+```bash
+py requirements.txt
 ```
 
 # How to run
 
 Run these commands:
-
-```bash
-cd C:\Users\YOURUSER\Downloads\passgen
-```
-Now run:
 
 ```bash
 py passgen.py
