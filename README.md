@@ -12,7 +12,7 @@ cd C:\Users\YOURUSER\Downloads\passgen
 And then run:
 
 ```bash
-py requirements.txt
+pip install -r requirements.txt
 ```
 
 # How to run
