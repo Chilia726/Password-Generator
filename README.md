@@ -3,6 +3,8 @@ A quick password generator for your favorite website.
 
 # Requirements
 
+You will need [Python](https://www.python.org/downloads/)
+
 You will need to run these commands to install depositories
 
 ```bash
