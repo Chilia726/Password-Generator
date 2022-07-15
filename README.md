@@ -9,6 +9,8 @@ You will need to run these commands to install depositories
 cd C:\Users\YOURUSER\Downloads\passgen
 ```
 
+And then run:
+
 ```bash
 py requirements.txt
 ```
