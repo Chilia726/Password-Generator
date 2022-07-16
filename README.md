@@ -7,13 +7,13 @@ You will need [Python](https://www.python.org/downloads/)
 
 You will need to run these commands to install depositories
 
-```bash
+```py
 cd C:\Users\YOURUSER\Downloads\passgen
 ```
 
 And then run:
 
-```bash
+```py
 pip install -r requirements.txt
 ```
 
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 Run these commands:
 
-```bash
+```py
 py passgen.py
 ```
 
